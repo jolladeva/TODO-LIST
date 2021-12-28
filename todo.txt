@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+ <h1>TODO-LIST</h1>
+ <h2>list of things to do</h2>
+ <lable for fname>first name</lable>
+ <input type=text> </input type>
+ <option>
+ <input type=text>--SELECT--</input> </option>
+  <br><br>
+ 
+<button>NAME</button>
+
+
+<button>Submit</button>
+
+</body>
+</html>
+-------------------------------------------------------------------------
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="background-color:Orange;">Mahishwar</h1>
+
+<h2>TODO-LIST</h2>
+
+<lable></lable>
+  <select input=text>
+   
+    <option value="ALL">ALL</option>
+    <option value="Complete">Complete</option>
+    <option value="uncomplete">uncomplete</option>
+     </select>
+  <br><br>
+    ------------------------------------------------------------------
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="background-color:Orange;">Mahishwar</h1>
+
+<h2>TODO-LIST</h2>
+
+<lable> enter the do list
+</lable>
+
+<lable></lable>
+  <select input=text>
+   
+    <option value="ALL">ALL</option>
+    <option value="Complete">Complete</option>
+    <option value="uncomplete">uncomplete</option>
+     </select>
+  <br><br>
+  
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> I have a bike</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> I have a car</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> I have a boat</label><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
+<form>
+  <label for="fname"></label><br>
+  <input type="text" id="fname" name="fname" value=""><br>
+  <label for="lname"></label><br>
+  <input type="text" id="lname" name="lname" value=""><br><br>
+  
+</form>  
+
+  <input type="submit" value="Submit">
+
+
+</body>
+</html>
+
+
